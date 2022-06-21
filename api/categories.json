@@ -1,1 +1,1 @@
-[{"name":"leetcode","path":"api/categories/leetcode.json","slug":"leetcode","count":1},{"name":"JAVA","path":"api/categories/JAVA.json","slug":"JAVA","count":4},{"name":"JUC","path":"api/categories/JUC.json","slug":"JUC","count":1}]
+[{"name":"JAVA","path":"api/categories/JAVA.json","slug":"JAVA","count":4},{"name":"leetcode","path":"api/categories/leetcode.json","slug":"leetcode","count":1},{"name":"JUC","path":"api/categories/JUC.json","slug":"JUC","count":1}]
